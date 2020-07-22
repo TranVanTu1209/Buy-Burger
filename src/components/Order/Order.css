@@ -1,0 +1,11 @@
+/** @format */
+
+.Order {
+	max-width: 600px;
+	border: 1px solid goldenrod;
+	border-radius: 4px;
+	padding: 2rem;
+	margin: 15px auto;
+	line-height: 1.9;
+	font-weight: 600;
+}

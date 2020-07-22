@@ -1,0 +1,24 @@
+/** @format */
+.ContactData {
+	max-width: 600px;
+	margin: 3rem auto;
+	padding: 2rem;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4), -2px -2px 2px rgba(0, 0, 0, 0.4);
+}
+.ContactData input,
+.ContactData select {
+	display: block;
+	width: 100%;
+	padding: 8px;
+	font-size: 18px;
+	height: 35px;
+	border: 1px solid #888;
+	border-radius: 3px;
+	margin-bottom: 2rem;
+	outline: transparent;
+}
+.ContactData select {
+	height: 40px;
+	width: 100%;
+	color: #444;
+}

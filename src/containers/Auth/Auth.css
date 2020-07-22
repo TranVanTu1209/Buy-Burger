@@ -1,0 +1,10 @@
+/** @format */
+
+.Auth {
+	padding: 3rem;
+	width: 50%;
+	margin: auto;
+	box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3),  -1px -2px 1px rgba(0, 0, 0, 0.3) ;
+	margin-top: 7rem;
+	border-radius: 3px;
+}
